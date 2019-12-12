@@ -1,0 +1,18 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_name">FilmKu</string>
+    <string name="movie">Film</string>
+    <string name="tvshow">Acara TV</string>
+    <string name="title_activity_detail">Detail Activity</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="rating">Peringkat :</string>
+    <string name="year">Tahun :</string>
+    <string name="genre">Genre :</string>
+    <string name="sinopsis">Sinopsis :</string>
+    <string name="name_movie">Nama Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="gambar_poster">Gambar</string>
+
+</resources>
